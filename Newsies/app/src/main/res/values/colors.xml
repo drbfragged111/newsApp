@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--Color for all secondary news details-->
+    <color name="newsDetails">#4a4b4c</color>
+    <!--Color for the new Headline-->
+    <color name="headline">#000000</color>
+    <!--Color for the news Category-->
+    <color name="category">#910000</color>
+</resources>
